@@ -1,0 +1,6 @@
+## Interface: 100005
+## Title: autoattack-alert
+## Author: generic-nickname
+## Version: 1.0.0
+
+main.lua
